@@ -1,6 +1,8 @@
 # PaF
 The PaF income polarization index Use pafF And paf (DER) With (In) R Software
 
+https://www.youtube.com/watch?v=OQFZveShMrQ
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
